@@ -1,0 +1,6 @@
+﻿3
+W W W | E W A | E E E
+F F F | F A F | W W W
+A A A | A E A | A A A
+1 1 1
+Melolemonmelon

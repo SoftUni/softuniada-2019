@@ -1,0 +1,5 @@
+﻿7
+3 3
+5 5 left 2
+6 6 right 2
+eastern odyssey

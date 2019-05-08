@@ -1,0 +1,6 @@
+﻿1
+1
+Voyage impossible
+0 0 0
+1 1 0
+0 1 1

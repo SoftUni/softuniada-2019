@@ -1,0 +1,7 @@
+﻿3
+0 0
+2 2 right 2
+0 0 left 2
+2 2 down 2
+0 0 up 2
+eastern odyssey

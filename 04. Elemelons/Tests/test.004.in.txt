@@ -1,0 +1,13 @@
+﻿8
+E E F E E F F E | W A W W F F F F | A W W W E F F A | E W E F F A E F | W E W W W E A W | W W E F F A F F | A A A E F F W W | A F E W A A E E
+W E W F A E W F | A A E A W A A E | E W E A W F E A | E E E W F E F F | E F A E F E A E | F W E F E W F F | F A W E F A F W | A A W E F W A F
+E A F A F F W E | W W W W E A E A | F E A A E F W F | F A A W E E F W | E A E E E A W F | A W W A A E A E | A E F A W E W E | F W F A W W A E
+F E E F W E A W | E W F F W E W W | A A W E E A W A | W A W W A W W F | W F F F E E E A | F F A W A F F F | E F W E E F F F | E F A E W W F W
+W W E E W E F E | A F E W F W A W | F A F W W A E E | W A F F E E F W | F W W F W A F E | E A F A W A E W | E A A W F A A A | E W E W E F W W
+E E E F W E A F | A E E F W F E A | W F F F W F W W | W W E F A W E W | E A F A F A E E | F F F A A F A A | W A F W F W W F | W E A E W F W W
+A A F F W E A F | E E E F A F F A | E A A A A W E E | F F F W W W W A | A A W F E E F E | E E A E A E F A | A W W A F E F F | E F W W W F W E
+A E F A E F F A | A E F E E F F F | A A F F W F A W | W E W W W A W A | W W F E W F A A | F W W W A E A F | E A E F E W F A | A F W E A W E E
+2 4 0
+5 0 5
+6 2 4
+Melolemonmelon

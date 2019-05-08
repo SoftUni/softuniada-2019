@@ -1,0 +1,4 @@
+﻿F A E F | A F A A | A A A A | F F F E
+A W A E | W 0 W E | F E F E | E E W 0
+F A W A | W A W W | F F E F | A W W F
+F E A W | A A F A | A F 0 F | A A F A
